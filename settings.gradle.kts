@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "UserSystemFlow"
-include ':app'
+include(":app")
